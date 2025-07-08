@@ -1,6 +1,6 @@
-## Hi there 👋
+## hello mate!!! 😃
 
-- 🔭 I’m currently working on studying programming languages and building projects.
+- 🛠 I’m currently working on studying programming languages and building projects.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/olinto-manso-pereira-filho-99772a344) • [Email](mailto:olintomansofilho@gmail.com) • [Instagram](https://instagram.com/olintompf)
 
 
