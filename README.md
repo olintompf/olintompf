@@ -17,7 +17,7 @@
   <img align="center" alt="olintompf" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="olintompf" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="olintompf-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="olintompf-Python" height="30" width="40" src="https://raw.githubusercontent.com/disenowebakus.net/imagenes/articulos/lenguaje-de-programacion-c.jpg
+  <img align="center" alt="olintompf-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
 ##
@@ -40,4 +40,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olintompf/olintompf/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/olintompf/olintompf/output/github-contribution-grid-snake.svg">
 </picture>
-
