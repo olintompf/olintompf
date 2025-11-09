@@ -1,6 +1,6 @@
 Hello there!!
 
-I'm Olinto, currently pursuing a degree in Computer Science and continuously improving my programming skills through personal projects.print("\n")
+I'm Olinto, currently pursuing a degree in Computer Science and continuously improving my programming skills through personal projects.
 
 
 
