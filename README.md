@@ -1,5 +1,6 @@
-## hello mate!!! 😃
-🛠 I’m currently working on studying programming languages and building projects.
+##Hello there! 
+
+I'm Olinto, currently pursuing a degree in Computer Science and continuously improving my programming skills through personal projects. 
 
 
 
